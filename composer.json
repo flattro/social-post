@@ -1,5 +1,5 @@
 {
-    "name": "martin-georgiev/social-post",
+    "name": "flattro/social-post",
     "type": "library",
     "description": "Library helping you publish status updates on Facebook, LinkedIn and Twitter in centralised way",
     "keywords": ["martin georgiev", "facebook", "twitter", "linkedin", "twitteroauth", "facabook sdk for php", "post update", "social network"],
