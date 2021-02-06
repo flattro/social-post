@@ -29,8 +29,8 @@
         "ext-curl": "*",
         "abraham/twitteroauth": "^1.0",
         "facebook/graph-sdk": "^5.4",
-        "happyr/linkedin-api-client": "^1.0",
-        "php-http/curl-client": "^1.7"
+        "flattro/linkedin-api-client": "^1.0",
+        "php-http/curl-client": "^2.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.14",
