@@ -74,5 +74,12 @@
         "bin-dir": "bin",
         "sort-packages": true
     },
-    "prefer-stable": true
+    "prefer-stable": true,
+    
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/flattro/linkedin-api-client"
+        }
+    ]
 }
